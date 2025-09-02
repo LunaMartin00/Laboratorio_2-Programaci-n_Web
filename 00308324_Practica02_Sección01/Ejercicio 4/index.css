@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+.page {
+    padding: 20px;
+    text-align: center;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+    padding: 20px;
+}
+
+.item {
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+}
+
+.item img {
+    max-width: 100%;
+    height: auto;
+}

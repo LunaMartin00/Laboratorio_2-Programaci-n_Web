@@ -1,0 +1,5 @@
+¿Hay cambios en la visualización del sitio web? ¿Por qué se dan estos cambios entre tan pocas líneas de diseño CSS?
+
+Respuesta-- Sí, se notan cambios bastante claros en cómo se ve la página. debido a que con pocas líneas de CSS Grid, 
+los elementos ya no se apilan uno debajo del otro como normalmente lo harían, sino que se organizan en una cuadrícula de dos columnas.
+
